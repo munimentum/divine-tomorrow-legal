@@ -3,8 +3,11 @@ title: "Divine Tomorrow - Legal Documents"
 description: "Terms of Service and Privacy Policy for Divine Tomorrow iOS App"
 author: "Munimentum"
 
+# Repository information (replace with your actual repository details)
+repository: "your-username/divine-tomorrow-legal"
+
 # GitHub Pages settings
-remote_theme: minima
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-sitemap
