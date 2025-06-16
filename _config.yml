@@ -1,0 +1,37 @@
+# GitHub Pages Configuration for Divine Tomorrow Legal Documents
+title: "Divine Tomorrow - Legal Documents"
+description: "Terms of Service and Privacy Policy for Divine Tomorrow iOS App"
+author: "Munimentum"
+
+# GitHub Pages settings
+remote_theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Markdown settings
+markdown: kramdown
+highlighter: rouge
+
+# Navigation
+header_pages:
+  - terms-of-service.md
+  - privacy-policy.md
+
+# Site settings
+baseurl: "" # the subpath of your site
+url: "" # the base hostname & protocol for your site
+
+# Build settings
+sass:
+  style: compressed
+
+# Exclude files from processing
+exclude:
+  - TERM_OF_SERVICE.md
+  - PRIVACY_POLICY.md
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor 
