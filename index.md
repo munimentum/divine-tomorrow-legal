@@ -9,10 +9,10 @@ Welcome to the legal documentation for **Divine Tomorrow**, an AI-powered tarot 
 
 ## Available Documents
 
-### [Terms of Service](./terms-of-service.html)
+### [Terms of Service](./terms-of-service.md)
 Our Terms of Service outline the rules and regulations for using the Divine Tomorrow application, including subscription terms, user responsibilities, and service limitations.
 
-### [Privacy Policy](./privacy-policy.html)
+### [Privacy Policy](./privacy-policy.md)
 Our Privacy Policy explains how we collect, use, and protect your personal information when you use Divine Tomorrow.
 
 ---
